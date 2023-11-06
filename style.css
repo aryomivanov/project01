@@ -1,0 +1,59 @@
+.main {
+    background-color: #f1f1f1;
+    font-family: Anonymous Pro;
+}
+.picture {
+    width: 371px;
+    height: 254px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #121723;
+    color: #fff;
+    height: 100px;
+}
+.logo_header {
+    width: 212px;
+    height: 63px;
+    box-sizing: border-box;
+    margin-left: 143px;
+    margin-right: 1085px;
+}
+.a {
+    box-sizing: border-box;
+    margin-right: 157px;
+
+}
+.content_text {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+.text {
+    background-color: #fff;
+}
+.content {
+    box-sizing: border-box;
+    margin-left: 350px;
+}
+.collection {
+    font-family: Anonymous Pro;
+    font-size: 23px;
+}
+.div_vector {
+    display: flex;
+    justify-content: flex-start;
+    box-sizing: border-box;
+    margin-right: 10px;
+}
+.footer_2 {
+    color: #A1A6B4;
+    font-family: Anonymous Pro;
+}
